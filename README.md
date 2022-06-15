@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pouria03
 - 👀 I’m interested in Web Developping
-- 🌱 I’m currently learning pyhthon & Django
+- 🌱 I’m currently learning python & Django
 - 💞️ I’m looking to collaborate on python applications
 - 📫 How to reach me :
     => ✉ PouriaSh10@hotmail.com
